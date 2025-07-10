@@ -22,7 +22,8 @@ public class Category {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-
+    
+    //should be entered
     @NotBlank(message = "Category name must not be blank")
     private String name;
 
