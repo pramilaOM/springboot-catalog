@@ -3,7 +3,6 @@
 This is a simple Spring Boot-based Product Catalog REST API.
 
 ## Features
-
 - Manage Products and Categories
 - CRUD operations via REST API
 - Pagination and Sorting
@@ -11,7 +10,6 @@ This is a simple Spring Boot-based Product Catalog REST API.
 - Java 21 + Spring Boot
 
 ## Technologies
-
 - Java 21
 - Spring Boot
 - Spring Data JPA
@@ -19,5 +17,5 @@ This is a simple Spring Boot-based Product Catalog REST API.
 - Maven
 
 ## Run the App
-.\mvnw clean install
-.\mvnw spring-boot:run
+./mvnw clean install  
+./mvnw spring-boot:run
